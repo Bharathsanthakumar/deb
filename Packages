@@ -1,0 +1,14 @@
+Package: site24x7-Agent
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Essential: no
+Maintainer: ManageEngine-Site24x7
+Filename: ./site24x7_amd64.deb
+Size: 878
+MD5sum: b3cdf414e908166274de5d5cbc533907
+SHA1: 39cf6efe05b58dc14edaf359a08a5112f00844f3
+SHA256: e21aa71b80ba7c40bf125a31a142fab382571ad2e65823b8fd1cef38c886438c
+SHA512: ec44d587e23780aa1a0cbce95e7a87191748dec973895810c00def81cf0eb811149edf4b7bedfa891b4f69034f566300daa2ea6fa92a0449499ee759d388f4b5
+Description: Monitoring agent for linux
+
